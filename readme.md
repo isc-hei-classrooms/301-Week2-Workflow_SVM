@@ -54,7 +54,7 @@ Create 5-10 slides presenting SVM. The content of your slides should enable you 
 - Soft margin.
 - Support vector.
 - Kernel (polynomial and RBF).
-- Understand and explain the kernel trick, why it a "trick", and why it's useful.
+- Understand and explain the kernel trick, why it is a "trick", and why it's useful.
 - Discuss possible approaches for multiclass classification using SVM.
 - What is one-class SVM and what is it used for?
 - How does SVM select the best hyperplane of separation?
