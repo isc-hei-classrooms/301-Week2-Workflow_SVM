@@ -12,7 +12,7 @@ Then, in a fifth and last section, you will be asked to investigate the Support 
 We provide you with a [dataset](https://www.kaggle.com/c/titanic/data) and a structured jupyter notebook that will guide you throw the different parts.
 
 ### Expected Outcomes
-A Jupyter notebook to be submitted via GitHub classroom.
+A Jupyter notebook to be submitted via GitHub.
 Please make sure to:
 - Explain the goal of your code (i.e., what you are doing and *why*)
 - Comment on the results
@@ -49,15 +49,17 @@ NumPy, pandas, scikit-learn
 
 ### Additional task (not in the notebook):
 
-Create 5-10 slides presenting SVM. The content of your slides should enable you to explain the following concepts:
+Create 5-10 slides presenting SVM. You can work in groups of 2-3 people. The content of your slides should enable you to explain the following concepts:
 - Hyperplane of separation.
 - Soft margin.
 - Support vector.
 - Kernel (polynomial and RBF).
-- Understand and explain the kernel trick, why it is a "trick", and why it's useful.
+- Understand and explain the kernel trick, why it's a "trick", and why it's useful.
 - Discuss possible approaches for multiclass classification using SVM.
 - What is one-class SVM and what is it used for?
 - How does SVM select the best hyperplane of separation?
 - SVM (without considering the kernel) has only one hyperparameter. What is its name, and what does it represent?
 
-*NOTE: cite the sources that you used to prepare your presentation.*
+**Commit your slides with you code.**
+
+*NOTE: cite the sources that you used to prepare your presentation. AI is a source (it's up to you how much you trust it).*
